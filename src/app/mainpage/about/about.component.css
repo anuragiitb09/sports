@@ -1,0 +1,27 @@
+.about-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .about-box {
+    width: 30%;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: #eeeeee;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #eeeeee;
+  }
+  .line{
+    background-color: #eeeeee;
+    height:200px;
+    width: 1px;
+    margin: 20px;
+  }

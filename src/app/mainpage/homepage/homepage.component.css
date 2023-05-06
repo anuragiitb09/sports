@@ -1,0 +1,47 @@
+ .containerinfo{
+    background-image: url("../../../assets/chino-rocha-2FKTyJqfWX8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:1400px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .info{
+    background-color:#444444;
+    height: 500px;
+  }
+  .line{
+    height: 2px;
+    background-color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  .heading{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-left: 150px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    flex: 1;
+    color: #444444;
+  }
+  
+  .video-container {
+    margin-left: 700px;
+    flex: 1;
+    margin-top: 100px;
+    margin-right: 10px;
+  }
+.sports{
+  margin: 50px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+  

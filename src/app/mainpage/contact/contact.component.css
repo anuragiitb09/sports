@@ -1,0 +1,31 @@
+.contact-page {
+    text-align: start;
+    margin: 15px;
+  }
+
+  .contact-title {
+    font-size: 24px;
+    color: #eeeeee;
+    margin-bottom: 20px;
+  }
+
+  .contact-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .contact-box {
+    width: 200px;
+    padding: 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+  }
+  h3{
+    color: #eeeeee;
+  }
+  .line{
+    background-color: #eeeeee;
+    height:70px;
+    width: 1px;
+    margin: 20px;
+  }
