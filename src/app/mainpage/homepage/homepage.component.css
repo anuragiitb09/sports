@@ -34,8 +34,9 @@
   }
   
   .video-container {
-    margin-left: 700px;
-    flex: 1;
+    position: relative;
+    margin-left: 20%;
+    
     margin-top: 100px;
     margin-right: 10px;
   }

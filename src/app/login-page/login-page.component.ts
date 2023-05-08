@@ -14,11 +14,13 @@ export class LoginPageComponent {
   userData: { userid: string; pswd: string;} = {
     userid: '',
     pswd: ''
+   
   };
+  
   login() {
-    if (this.userData.userid == "iitbsports" && this.userData.pswd == "1234") {
-      this.router.navigate(['mainpage'])
-      console.log(this.userData)
+    if (this.userData.userid == "iitbsports" && this.userData.pswd == "1234") 
+    {
+      this.router.navigate(['homepage'])
     }
 
   }
